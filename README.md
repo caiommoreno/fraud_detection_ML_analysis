@@ -9,7 +9,7 @@
 Ryan Born](https://unsplash.com/@b0rno) in [Unsplash](https://unsplash.com/)*
 </center>
 
-Cyber security going to be one of the most popular topics in a near future. Every information; photo; memories and confidential data going to be stored virtually — with our bank details would be no different.
+Cyber security going to be one of the most popular topics in a near future. Every information; photo; memories and confidential data going to be stored virtually — with our bank details would be not different.
 
 Big credit card companies normally have a big amount of customers doing more than one transaction by day. To be able to recognize a fraudulent credit card transaction with this huge amount of data, they use a Machine Learning model.
 
@@ -17,5 +17,4 @@ Of course, the raw data needs to be cleaned and prepared to apply any Artificial
 
 In this article, it's gonna be presented by a simple way how these companies do that: data analysis; data modeling and Machine Learning creation.
 
-
-
+I am sure you're gonna like it ;)
