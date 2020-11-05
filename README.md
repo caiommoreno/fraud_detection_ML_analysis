@@ -15,6 +15,6 @@ Big credit card companies normally have a big amount of customers doing more tha
 
 Of course, the raw data needs to be cleaned and prepared to apply any Artificial Intelligence technique.
 
-In this article, it's gonna be presented by a simple way how these companies do that: data analysis; data modeling and Machine Learning creation.
+In this article, it's going to be presented by a simple way how these companies do that: data analysis; data modeling and Machine Learning creation.
 
 I am sure you're gonna like it ;)
